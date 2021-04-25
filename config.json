@@ -1,12 +1,12 @@
 {
-    "username": "EaterMC",
-    "password": "password",
-    "host": "jartex.fun",
+    "username": "macanhan10",
+    "password": "09354757901",
+    "host": "play.pika-network.net",
     "version": "1.8",
     "prefix": "-",
     "account": "OFFLINE",   
-    "join": "/server immortal", 
-    "loginCmd": "/login password",
-    "whitelist": ["Player1", "Player2"],
+    "join": "/server opfactions", 
+    "loginCmd": "/login 09354757901",
+    "whitelist": ["mlssy", "drack0lich"],
     "betterchunks": false
 }
