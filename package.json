@@ -1,0 +1,14 @@
+{
+  "name": "afkbot",
+  "version": "1.0.0",
+  "description": "AFKBot for Minecraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eater#2751 (Zero Development)",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^3.6.0"
+  }
+}
